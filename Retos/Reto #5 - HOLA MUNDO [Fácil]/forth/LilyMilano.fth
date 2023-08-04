@@ -1,3 +1,0 @@
-//Forth
-
-.( Hello World)

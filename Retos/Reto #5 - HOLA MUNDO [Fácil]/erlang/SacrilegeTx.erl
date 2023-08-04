@@ -1,1 +1,0 @@
-io:format("Hola Mundo!~n").

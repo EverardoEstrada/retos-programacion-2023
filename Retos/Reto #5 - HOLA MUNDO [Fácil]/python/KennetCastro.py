@@ -1,2 +1,0 @@
-#PequeñaGranComunidad
-print('!Hola Mundo!')

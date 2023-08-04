@@ -1,5 +1,0 @@
-// Falcon
-
-#!/usr/bin/env falcon
-
-> "Hello World"

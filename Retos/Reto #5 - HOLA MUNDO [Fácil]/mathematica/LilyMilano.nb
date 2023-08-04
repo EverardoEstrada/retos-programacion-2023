@@ -1,3 +1,0 @@
-#Mathematica.nb
-
-Print["Hello world"]

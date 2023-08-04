@@ -1,4 +1,0 @@
-: hello
-        ." ¡Hola Mundo! "
-;
-hello

@@ -1,3 +1,0 @@
-10 MESSAGE$ = "Hola, Mundo"
-20 PRINT MESSAGE$
-30 END

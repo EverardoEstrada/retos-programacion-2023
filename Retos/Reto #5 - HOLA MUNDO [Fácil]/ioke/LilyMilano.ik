@@ -1,3 +1,0 @@
-// Ioke
-
-"Hello, World!" println

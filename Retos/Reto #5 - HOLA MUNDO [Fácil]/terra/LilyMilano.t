@@ -1,3 +1,0 @@
-# terra
-
-print("hello, world")
